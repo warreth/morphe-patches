@@ -42,6 +42,8 @@ Or use the button: [Add to Morphe](https://morphe.software/add-source?github=war
 
 ## Notes
 
+- **Status:** tested and confirmed working on ScreenZen 2.9.4 with Vanadium 157.0.8103.50.0
+  and Cromite 153.0.8010.37.
 - ScreenZen is distributed as an XAPK (split APK bundle). Use the XAPK, not a single APK.
 - The patch adds Vanadium (`app.vanadium.browser`) and Cromite (`org.cromite.cromite`) to the
   browsers ScreenZen reads the address bar from, so website blocking works there too.
